@@ -1,1 +1,1 @@
-# cs-git
+# cschool-git
